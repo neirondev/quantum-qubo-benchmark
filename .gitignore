@@ -1,0 +1,9 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+*.log
+.DS_Store
+node_modules/
+run-005-qubo/qubo-2000-*.json

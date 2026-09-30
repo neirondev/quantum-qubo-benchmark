@@ -1,0 +1,83 @@
+[
+ {
+  "n": 12,
+  "seed": 12345,
+  "solver": "neal+repair",
+  "best_value": 37,
+  "optimum": 37.0,
+  "approx_ratio": 1.0,
+  "feasible": true
+ },
+ {
+  "n": 12,
+  "seed": 42,
+  "solver": "neal+repair",
+  "best_value": 56,
+  "optimum": 56.0,
+  "approx_ratio": 1.0,
+  "feasible": true
+ },
+ {
+  "n": 12,
+  "seed": 67890,
+  "solver": "neal+repair",
+  "best_value": 64,
+  "optimum": 64.0,
+  "approx_ratio": 1.0,
+  "feasible": true
+ },
+ {
+  "n": 16,
+  "seed": 12345,
+  "solver": "neal+repair",
+  "best_value": 57,
+  "optimum": 57.0,
+  "approx_ratio": 1.0,
+  "feasible": true
+ },
+ {
+  "n": 16,
+  "seed": 42,
+  "solver": "neal+repair",
+  "best_value": 55,
+  "optimum": 56.0,
+  "approx_ratio": 0.982143,
+  "feasible": true
+ },
+ {
+  "n": 16,
+  "seed": 67890,
+  "solver": "neal+repair",
+  "best_value": 58,
+  "optimum": 59.0,
+  "approx_ratio": 0.983051,
+  "feasible": true
+ },
+ {
+  "n": 20,
+  "seed": 12345,
+  "solver": "neal+repair",
+  "best_value": 76,
+  "optimum": 76.0,
+  "approx_ratio": 1.0,
+  "feasible": true
+ },
+ {
+  "n": 20,
+  "seed": 42,
+  "solver": "neal+repair",
+  "best_value": 71,
+  "optimum": 71.0,
+  "approx_ratio": 1.0,
+  "feasible": true
+ },
+ {
+  "n": 20,
+  "seed": 67890,
+  "solver": "neal+repair",
+  "best_value": 72,
+  "optimum": 76.0,
+  "approx_ratio": 0.947368,
+  "feasible": true
+ }
+]

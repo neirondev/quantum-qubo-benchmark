@@ -1,0 +1,42 @@
+[
+ {
+  "n": 500,
+  "seed": 67890,
+  "solver": "neal",
+  "obj": 1913,
+  "feas": true,
+  "s": 8
+ },
+ {
+  "n": 2000,
+  "seed": 42,
+  "solver": "greedy",
+  "obj": 7066,
+  "feas": true,
+  "s": 1
+ },
+ {
+  "n": 2000,
+  "seed": 42,
+  "solver": "neal",
+  "obj": 7437,
+  "feas": true,
+  "s": 134
+ },
+ {
+  "n": 2000,
+  "seed": 12345,
+  "solver": "greedy",
+  "obj": 7530,
+  "feas": true,
+  "s": 1
+ },
+ {
+  "n": 2000,
+  "seed": 12345,
+  "solver": "neal",
+  "obj": 7858,
+  "feas": true,
+  "s": 135
+ }
+]

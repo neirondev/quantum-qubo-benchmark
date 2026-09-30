@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "ns": [
+      12,
+      16,
+      20
+    ],
+    "seeds": [
+      42,
+      12345,
+      67890
+    ],
+    "budget": 8192,
+    "epsilon": 0.05,
+    "generated_at": "2026-09-04T10:41:34"
+  },
+  "results": [
+    {
+      "n": 12,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 37.0,
+      "method": "neal",
+      "n_good": 1316,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.165868
+    },
+    {
+      "n": 12,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 37.0,
+      "method": "qaoa",
+      "n_good": 133,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.139212
+    },
+    {
+      "n": 12,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 37.0,
+      "method": "random_greedy",
+      "n_good": 184,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.154193
+    },
+    {
+      "n": 12,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 56.0,
+      "method": "neal",
+      "n_good": 6224,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.083294
+    },
+    {
+      "n": 12,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 56.0,
+      "method": "qaoa",
+      "n_good": 808,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.021528
+    },
+    {
+      "n": 12,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 56.0,
+      "method": "random_greedy",
+      "n_good": 854,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.026712
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 64.0,
+      "method": "neal",
+      "n_good": 28,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 64.0,
+      "method": "qaoa",
+      "n_good": 11,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 64.0,
+      "method": "random_greedy",
+      "n_good": 12,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 57.0,
+      "method": "neal",
+      "n_good": 630,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.071644
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 57.0,
+      "method": "qaoa",
+      "n_good": 140,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.064928
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 57.0,
+      "method": "random_greedy",
+      "n_good": 201,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.057767
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 56.0,
+      "method": "neal",
+      "n_good": 515,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 56.0,
+      "method": "qaoa",
+      "n_good": 1,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 56.0,
+      "method": "random_greedy",
+      "n_good": 2,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 59.0,
+      "method": "neal",
+      "n_good": 478,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.187337
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 59.0,
+      "method": "qaoa",
+      "n_good": 3,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.25
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 59.0,
+      "method": "random_greedy",
+      "n_good": 4,
+      "n_clusters": 2,
+      "mean_pairwise_hamming": 0.1875
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 76.0,
+      "method": "neal",
+      "n_good": 349,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.021671
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 76.0,
+      "method": "qaoa",
+      "n_good": 9,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.111111
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "budget": 8192,
+      "optimum": 76.0,
+      "method": "random_greedy",
+      "n_good": 4,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.1
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 71.0,
+      "method": "neal",
+      "n_good": 1361,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.086137
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 71.0,
+      "method": "qaoa",
+      "n_good": 138,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.085846
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "budget": 8192,
+      "optimum": 71.0,
+      "method": "random_greedy",
+      "n_good": 122,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.071372
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 76.0,
+      "method": "neal",
+      "n_good": 132,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 76.0,
+      "method": "qaoa",
+      "n_good": 1,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "budget": 8192,
+      "optimum": 76.0,
+      "method": "random_greedy",
+      "n_good": 1,
+      "n_clusters": 1,
+      "mean_pairwise_hamming": 0.0
+    }
+  ]
+}

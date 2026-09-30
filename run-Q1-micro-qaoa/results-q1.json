@@ -1,0 +1,512 @@
+{
+  "results": [
+    {
+      "n": 12,
+      "seed": 42,
+      "solver": "brute",
+      "best_value": 56.0,
+      "optimum": 56.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0022
+    },
+    {
+      "n": 12,
+      "seed": 42,
+      "solver": "greedy",
+      "best_value": 54,
+      "optimum": 56.0,
+      "approx_ratio": 0.964286,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0523
+    },
+    {
+      "n": 12,
+      "seed": 42,
+      "solver": "neal",
+      "best_value": 65,
+      "optimum": 56.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.1685
+    },
+    {
+      "n": 12,
+      "seed": 42,
+      "solver": "qaoa-p1",
+      "best_value": 56,
+      "optimum": 56.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": 1,
+      "wall_time_s": 2.9961
+    },
+    {
+      "n": 12,
+      "seed": 42,
+      "solver": "qaoa-p2",
+      "best_value": 56,
+      "optimum": 56.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": 1,
+      "wall_time_s": 30.7765
+    },
+    {
+      "n": 12,
+      "seed": 12345,
+      "solver": "brute",
+      "best_value": 37.0,
+      "optimum": 37.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0025
+    },
+    {
+      "n": 12,
+      "seed": 12345,
+      "solver": "greedy",
+      "best_value": 36,
+      "optimum": 37.0,
+      "approx_ratio": 0.972973,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.059
+    },
+    {
+      "n": 12,
+      "seed": 12345,
+      "solver": "neal",
+      "best_value": 40,
+      "optimum": 37.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.1911
+    },
+    {
+      "n": 12,
+      "seed": 12345,
+      "solver": "qaoa-p1",
+      "best_value": 37,
+      "optimum": 37.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": 1,
+      "wall_time_s": 2.9846
+    },
+    {
+      "n": 12,
+      "seed": 12345,
+      "solver": "qaoa-p2",
+      "best_value": 36,
+      "optimum": 37.0,
+      "approx_ratio": 0.972973,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 30.7653
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "solver": "brute",
+      "best_value": 64.0,
+      "optimum": 64.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0026
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "solver": "greedy",
+      "best_value": 55,
+      "optimum": 64.0,
+      "approx_ratio": 0.859375,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.059
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "solver": "neal",
+      "best_value": 64,
+      "optimum": 64.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.1868
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "solver": "qaoa-p1",
+      "best_value": 64,
+      "optimum": 64.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": 1,
+      "wall_time_s": 3.0155
+    },
+    {
+      "n": 12,
+      "seed": 67890,
+      "solver": "qaoa-p2",
+      "best_value": 64,
+      "optimum": 64.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": 1,
+      "wall_time_s": 31.0918
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "solver": "brute",
+      "best_value": 56.0,
+      "optimum": 56.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0526
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "solver": "greedy",
+      "best_value": 55,
+      "optimum": 56.0,
+      "approx_ratio": 0.982143,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0605
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "solver": "neal",
+      "best_value": 60,
+      "optimum": 56.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.1964
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "solver": "qaoa-p1",
+      "best_value": 51,
+      "optimum": 56.0,
+      "approx_ratio": 0.910714,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 3.9365
+    },
+    {
+      "n": 16,
+      "seed": 42,
+      "solver": "qaoa-p2",
+      "best_value": 51,
+      "optimum": 56.0,
+      "approx_ratio": 0.910714,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 45.2507
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "solver": "brute",
+      "best_value": 57.0,
+      "optimum": 57.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0528
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "solver": "greedy",
+      "best_value": 55,
+      "optimum": 57.0,
+      "approx_ratio": 0.964912,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0625
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "solver": "neal",
+      "best_value": 59,
+      "optimum": 57.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.1915
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "solver": "qaoa-p1",
+      "best_value": 52,
+      "optimum": 57.0,
+      "approx_ratio": 0.912281,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 3.9104
+    },
+    {
+      "n": 16,
+      "seed": 12345,
+      "solver": "qaoa-p2",
+      "best_value": 57,
+      "optimum": 57.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": 1,
+      "wall_time_s": 45.2315
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "solver": "brute",
+      "best_value": 59.0,
+      "optimum": 59.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0546
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "solver": "greedy",
+      "best_value": 56,
+      "optimum": 59.0,
+      "approx_ratio": 0.949153,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0632
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "solver": "neal",
+      "best_value": 64,
+      "optimum": 59.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.1937
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "solver": "qaoa-p1",
+      "best_value": 54,
+      "optimum": 59.0,
+      "approx_ratio": 0.915254,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 3.9964
+    },
+    {
+      "n": 16,
+      "seed": 67890,
+      "solver": "qaoa-p2",
+      "best_value": 56,
+      "optimum": 59.0,
+      "approx_ratio": 0.949153,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 45.3711
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "solver": "brute",
+      "best_value": 71.0,
+      "optimum": 71.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.9184
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "solver": "greedy",
+      "best_value": 69,
+      "optimum": 71.0,
+      "approx_ratio": 0.971831,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0596
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "solver": "neal",
+      "best_value": 76,
+      "optimum": 71.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.2045
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "solver": "qaoa-p1",
+      "best_value": 65,
+      "optimum": 71.0,
+      "approx_ratio": 0.915493,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 9.8247
+    },
+    {
+      "n": 20,
+      "seed": 42,
+      "solver": "qaoa-p2",
+      "best_value": 69,
+      "optimum": 71.0,
+      "approx_ratio": 0.971831,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 148.5906
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "solver": "brute",
+      "best_value": 76.0,
+      "optimum": 76.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.9236
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "solver": "greedy",
+      "best_value": 67,
+      "optimum": 76.0,
+      "approx_ratio": 0.881579,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0582
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "solver": "neal",
+      "best_value": 80,
+      "optimum": 76.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.2117
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "solver": "qaoa-p1",
+      "best_value": 63,
+      "optimum": 76.0,
+      "approx_ratio": 0.828947,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 9.7342
+    },
+    {
+      "n": 20,
+      "seed": 12345,
+      "solver": "qaoa-p2",
+      "best_value": 62,
+      "optimum": 76.0,
+      "approx_ratio": 0.815789,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 148.6876
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "solver": "brute",
+      "best_value": 76.0,
+      "optimum": 76.0,
+      "approx_ratio": 1.0,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.9183
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "solver": "greedy",
+      "best_value": 68,
+      "optimum": 76.0,
+      "approx_ratio": 0.894737,
+      "feasible": true,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.0588
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "solver": "neal",
+      "best_value": 85,
+      "optimum": 76.0,
+      "approx_ratio": 0.0,
+      "feasible": false,
+      "p_optimal_in_shots": null,
+      "wall_time_s": 0.21
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "solver": "qaoa-p1",
+      "best_value": 70,
+      "optimum": 76.0,
+      "approx_ratio": 0.921053,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 9.7043
+    },
+    {
+      "n": 20,
+      "seed": 67890,
+      "solver": "qaoa-p2",
+      "best_value": 65,
+      "optimum": 76.0,
+      "approx_ratio": 0.855263,
+      "feasible": true,
+      "p_optimal_in_shots": 0,
+      "wall_time_s": 144.5673
+    }
+  ],
+  "meta": {
+    "ns": [
+      12,
+      16,
+      20
+    ],
+    "seeds": [
+      42,
+      12345,
+      67890
+    ],
+    "generated_at": "2026-09-04T09:41:58"
+  }
+}

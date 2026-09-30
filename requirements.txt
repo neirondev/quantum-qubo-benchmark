@@ -1,0 +1,5 @@
+numpy
+dwave-neal
+qiskit
+qiskit-aer
+amazon-braket-sdk   # only for Aquila submissions (AWS account needed)

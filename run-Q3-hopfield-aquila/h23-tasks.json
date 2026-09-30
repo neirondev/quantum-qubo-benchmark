@@ -1,0 +1,16 @@
+[
+ {
+  "name": "ring8-hold6us",
+  "t_hold_s": 6e-06,
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/6ed11fef-f2e8-4e32-b533-97a2ca6ca7a4",
+  "shots": 70,
+  "submitted_utc": "2026-09-05T06:37:37Z"
+ },
+ {
+  "name": "ring8-hold15us",
+  "t_hold_s": 1.5e-05,
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/a8998ade-b385-4a2a-940e-3fe63400e6e2",
+  "shots": 70,
+  "submitted_utc": "2026-09-05T06:37:37Z"
+ }
+]

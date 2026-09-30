@@ -1,0 +1,143 @@
+{
+  "sanity": {
+    "test": "Max-Cut 4-cycle",
+    "result": "PASSED"
+  },
+  "benchmark": {
+    "params": {
+      "lambdaContra": 1,
+      "muBudget": 2
+    },
+    "sa_params": {
+      "steps": 20000,
+      "T0": 10,
+      "cooling": 0.999
+    },
+    "results": {
+      "greedy": {
+        "100": [
+          {
+            "objective": 354,
+            "feasible": true,
+            "runtime": 0.5166669999999982,
+            "seed": 12345
+          },
+          {
+            "objective": 347,
+            "feasible": true,
+            "runtime": 0.3758339999999407,
+            "seed": 67890
+          },
+          {
+            "objective": 368,
+            "feasible": true,
+            "runtime": 0.13633400000026086,
+            "seed": 11111
+          }
+        ],
+        "500": [
+          {
+            "objective": 1910,
+            "feasible": true,
+            "runtime": 4.242000000000189,
+            "seed": 12345
+          },
+          {
+            "objective": 1856,
+            "feasible": true,
+            "runtime": 0.5140000000010332,
+            "seed": 67890
+          },
+          {
+            "objective": 1783,
+            "feasible": true,
+            "runtime": 0.5774170000004233,
+            "seed": 11111
+          }
+        ],
+        "2000": [
+          {
+            "objective": 7530,
+            "feasible": true,
+            "runtime": 1.5940000000009604,
+            "seed": 12345
+          },
+          {
+            "objective": 7258,
+            "feasible": true,
+            "runtime": 0.9215420000036829,
+            "seed": 67890
+          },
+          {
+            "objective": 7118,
+            "feasible": true,
+            "runtime": 1.5193749999889405,
+            "seed": 11111
+          }
+        ]
+      },
+      "sa": {
+        "100": [
+          {
+            "objective": 319,
+            "feasible": false,
+            "runtime": 1466.712583,
+            "seed": 12345
+          },
+          {
+            "objective": 294,
+            "feasible": false,
+            "runtime": 1480.7942080000003,
+            "seed": 67890
+          },
+          {
+            "objective": 365,
+            "feasible": false,
+            "runtime": 1480.2794170000002,
+            "seed": 11111
+          }
+        ],
+        "500": [
+          {
+            "objective": 1465,
+            "feasible": false,
+            "runtime": 7095.311167,
+            "seed": 12345
+          },
+          {
+            "objective": 1414,
+            "feasible": false,
+            "runtime": 7150.103958,
+            "seed": 67890
+          },
+          {
+            "objective": 1464,
+            "feasible": false,
+            "runtime": 7176.531958,
+            "seed": 11111
+          }
+        ],
+        "2000": [
+          {
+            "objective": 5538,
+            "feasible": false,
+            "runtime": 28812.136166000004,
+            "seed": 12345
+          },
+          {
+            "objective": 5378,
+            "feasible": false,
+            "runtime": 29221.289040999996,
+            "seed": 67890
+          },
+          {
+            "objective": 5359,
+            "feasible": false,
+            "runtime": 29382.803291000004,
+            "seed": 11111
+          }
+        ]
+      }
+    }
+  }
+}

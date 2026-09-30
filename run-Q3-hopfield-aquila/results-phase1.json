@@ -1,0 +1,380 @@
+[
+  {
+    "geometry": "line",
+    "param": "final_detuning",
+    "value": 120000000.0,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "line",
+    "param": "final_detuning",
+    "value": 80000000.0,
+    "shots": 100,
+    "retention": 0.07
+  },
+  {
+    "geometry": "line",
+    "param": "final_detuning",
+    "value": 40000000.0,
+    "shots": 100,
+    "retention": 0.05
+  },
+  {
+    "geometry": "line",
+    "param": "final_detuning",
+    "value": 0.0,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "line",
+    "param": "final_detuning",
+    "value": -40000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "line",
+    "param": "final_detuning",
+    "value": -80000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "line",
+    "param": "final_detuning",
+    "value": -120000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "line",
+    "param": "t_sweep",
+    "value": 4e-06,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "line",
+    "param": "t_sweep",
+    "value": 3e-06,
+    "shots": 100,
+    "retention": 0.1
+  },
+  {
+    "geometry": "line",
+    "param": "t_sweep",
+    "value": 2e-06,
+    "shots": 100,
+    "retention": 0.05
+  },
+  {
+    "geometry": "line",
+    "param": "t_sweep",
+    "value": 1.5e-06,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "line",
+    "param": "t_sweep",
+    "value": 1e-06,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "line",
+    "param": "t_sweep",
+    "value": 5e-07,
+    "shots": 100,
+    "retention": 0.07
+  },
+  {
+    "geometry": "line",
+    "param": "sigma_amp",
+    "value": 0.0,
+    "shots": 100,
+    "retention": 0.03
+  },
+  {
+    "geometry": "line",
+    "param": "sigma_amp",
+    "value": 0.01,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "line",
+    "param": "sigma_amp",
+    "value": 0.03,
+    "shots": 100,
+    "retention": 0.02
+  },
+  {
+    "geometry": "line",
+    "param": "sigma_amp",
+    "value": 0.05,
+    "shots": 100,
+    "retention": 0.05
+  },
+  {
+    "geometry": "line",
+    "param": "sigma_amp",
+    "value": 0.1,
+    "shots": 100,
+    "retention": 0.04
+  },
+  {
+    "geometry": "ring",
+    "param": "final_detuning",
+    "value": 120000000.0,
+    "shots": 100,
+    "retention": 0.96
+  },
+  {
+    "geometry": "ring",
+    "param": "final_detuning",
+    "value": 80000000.0,
+    "shots": 100,
+    "retention": 0.97
+  },
+  {
+    "geometry": "ring",
+    "param": "final_detuning",
+    "value": 40000000.0,
+    "shots": 100,
+    "retention": 0.86
+  },
+  {
+    "geometry": "ring",
+    "param": "final_detuning",
+    "value": 0.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "ring",
+    "param": "final_detuning",
+    "value": -40000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "ring",
+    "param": "final_detuning",
+    "value": -80000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "ring",
+    "param": "final_detuning",
+    "value": -120000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "ring",
+    "param": "t_sweep",
+    "value": 4e-06,
+    "shots": 100,
+    "retention": 0.95
+  },
+  {
+    "geometry": "ring",
+    "param": "t_sweep",
+    "value": 3e-06,
+    "shots": 100,
+    "retention": 0.88
+  },
+  {
+    "geometry": "ring",
+    "param": "t_sweep",
+    "value": 2e-06,
+    "shots": 100,
+    "retention": 0.68
+  },
+  {
+    "geometry": "ring",
+    "param": "t_sweep",
+    "value": 1.5e-06,
+    "shots": 100,
+    "retention": 0.56
+  },
+  {
+    "geometry": "ring",
+    "param": "t_sweep",
+    "value": 1e-06,
+    "shots": 100,
+    "retention": 0.44
+  },
+  {
+    "geometry": "ring",
+    "param": "t_sweep",
+    "value": 5e-07,
+    "shots": 100,
+    "retention": 0.15
+  },
+  {
+    "geometry": "ring",
+    "param": "sigma_amp",
+    "value": 0.0,
+    "shots": 100,
+    "retention": 0.92
+  },
+  {
+    "geometry": "ring",
+    "param": "sigma_amp",
+    "value": 0.01,
+    "shots": 100,
+    "retention": 0.88
+  },
+  {
+    "geometry": "ring",
+    "param": "sigma_amp",
+    "value": 0.03,
+    "shots": 100,
+    "retention": 0.91
+  },
+  {
+    "geometry": "ring",
+    "param": "sigma_amp",
+    "value": 0.05,
+    "shots": 100,
+    "retention": 0.89
+  },
+  {
+    "geometry": "ring",
+    "param": "sigma_amp",
+    "value": 0.1,
+    "shots": 100,
+    "retention": 0.75
+  },
+  {
+    "geometry": "clusters",
+    "param": "final_detuning",
+    "value": 120000000.0,
+    "shots": 100,
+    "retention": 0.02
+  },
+  {
+    "geometry": "clusters",
+    "param": "final_detuning",
+    "value": 80000000.0,
+    "shots": 100,
+    "retention": 0.1
+  },
+  {
+    "geometry": "clusters",
+    "param": "final_detuning",
+    "value": 40000000.0,
+    "shots": 100,
+    "retention": 0.08
+  },
+  {
+    "geometry": "clusters",
+    "param": "final_detuning",
+    "value": 0.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "clusters",
+    "param": "final_detuning",
+    "value": -40000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "clusters",
+    "param": "final_detuning",
+    "value": -80000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "clusters",
+    "param": "final_detuning",
+    "value": -120000000.0,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "clusters",
+    "param": "t_sweep",
+    "value": 4e-06,
+    "shots": 100,
+    "retention": 0.04
+  },
+  {
+    "geometry": "clusters",
+    "param": "t_sweep",
+    "value": 3e-06,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "clusters",
+    "param": "t_sweep",
+    "value": 2e-06,
+    "shots": 100,
+    "retention": 0.04
+  },
+  {
+    "geometry": "clusters",
+    "param": "t_sweep",
+    "value": 1.5e-06,
+    "shots": 100,
+    "retention": 0.05
+  },
+  {
+    "geometry": "clusters",
+    "param": "t_sweep",
+    "value": 1e-06,
+    "shots": 100,
+    "retention": 0.0
+  },
+  {
+    "geometry": "clusters",
+    "param": "t_sweep",
+    "value": 5e-07,
+    "shots": 100,
+    "retention": 0.08
+  },
+  {
+    "geometry": "clusters",
+    "param": "sigma_amp",
+    "value": 0.0,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "clusters",
+    "param": "sigma_amp",
+    "value": 0.01,
+    "shots": 100,
+    "retention": 0.01
+  },
+  {
+    "geometry": "clusters",
+    "param": "sigma_amp",
+    "value": 0.03,
+    "shots": 100,
+    "retention": 0.02
+  },
+  {
+    "geometry": "clusters",
+    "param": "sigma_amp",
+    "value": 0.05,
+    "shots": 100,
+    "retention": 0.02
+  },
+  {
+    "geometry": "clusters",
+    "param": "sigma_amp",
+    "value": 0.1,
+    "shots": 100,
+    "retention": 0.01
+  }
+]

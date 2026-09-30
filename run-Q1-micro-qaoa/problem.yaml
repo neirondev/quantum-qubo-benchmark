@@ -1,0 +1,22 @@
+id: Q1
+title: Micro-QAOA на подграфе гипотез — честный мост к QPU
+source: >
+  Вердикт консилиума по квантовой стыковке (quantum-integration-advice.md):
+  general-QUBO решает классика; квантовый вход — micro-QAOA на n≤30 c брутфорс-верификацией.
+  Продолжение UI-005 (CONFIRMED: отжиг бьёт greedy с n≈500) — next_experiment (а).
+question: >
+  Догоняет ли QAOA (p=1,2, симулятор Aer) классические решатели (brute/greedy/neal)
+  по approximation ratio на малых QUBO-инстансах графа гипотез, и какой ценой
+  (глубина, оптимизация углов, шоты)? Это калибровка ожиданий ПЕРЕД тратой денег на QPU.
+abstraction: QUBO → Ising (x=(1-z)/2) → вариационная схема; метрика — единая формула qubo.mjs --evaluate.
+success_criteria:
+  - таблица approximation ratio: QAOA p=1/p=2 vs brute(=1.0) vs greedy vs neal, n=12/16/20, 3 сида
+  - P(optimal) и best-of-shots для QAOA при оптимизированных углах
+  - вывод «стоит/не стоит нести на IonQ» с числами (фаза B — отдельное решение)
+infrastructure:
+  interpreter: /Library/Frameworks/Python.framework/Versions/3.13/bin/python3  # qiskit 2.5.2 + aer + neal
+  probe: probe_aer.py  # ПРОВЕРЕН: шаблон QAOA-схемы, сетка углов ОБЯЗАТЕЛЬНА, endianness ключей counts
+  generator: qubo.mjs  # из UI-005: --export-qubo/--solve-greedy/--evaluate
+  neal_bridge: neal_solve.py  # из UI-005: биты через JSON, ключи sample — int
+budget: $0 (только локальный Aer; облако/IonQ — фаза B по явному одобрению)
+status: подготовлен к запуску (ждёт агентский слот после Q3)

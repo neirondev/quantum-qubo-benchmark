@@ -1,0 +1,16 @@
+[
+ {
+  "name": "ring8-nominal",
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/f11c6b91-d3ba-4c14-93d7-40ac9c582abc",
+  "shots": 100,
+  "submitted_utc": "2026-09-04T05:06:53Z",
+  "state_on_submit": "QUEUED"
+ },
+ {
+  "name": "line7-det1.1e8",
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/a017b197-a348-427c-9fd2-0fd079256a69",
+  "shots": 100,
+  "submitted_utc": "2026-09-04T05:06:54Z",
+  "state_on_submit": "QUEUED"
+ }
+]

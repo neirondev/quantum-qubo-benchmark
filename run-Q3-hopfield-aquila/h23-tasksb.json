@@ -1,0 +1,30 @@
+[
+ {
+  "name": "ring8-hold2us",
+  "t_hold_s": 2e-06,
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/e6c7e057-92f4-44e4-ae0d-bf7c6829f504",
+  "shots": 200,
+  "submitted_utc": "2026-09-05T07:12:34Z"
+ },
+ {
+  "name": "ring8-hold8us",
+  "t_hold_s": 8e-06,
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/50e87c8c-461e-440c-a3b7-9cb495bd0872",
+  "shots": 200,
+  "submitted_utc": "2026-09-05T07:12:34Z"
+ },
+ {
+  "name": "ring8-hold12us",
+  "t_hold_s": 1.2e-05,
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/a2a83267-b199-4824-ad63-37d02417ebad",
+  "shots": 200,
+  "submitted_utc": "2026-09-05T07:12:35Z"
+ },
+ {
+  "name": "ring8-hold15.5us",
+  "t_hold_s": 1.55e-05,
+  "arn": "arn:aws:braket:us-east-1:<account>:quantum-task/6ba90bd9-ab00-41e1-8559-c28cfa99994d",
+  "shots": 200,
+  "submitted_utc": "2026-09-05T07:12:36Z"
+ }
+]
