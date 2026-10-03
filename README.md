@@ -27,8 +27,9 @@ and brute force as the exact optimum. A separate line tests analog quantum hardw
 QAOA runtime per instance: p=1 — 3–10 s, p=2 — 31–147 s (Qiskit Aer simulator).
 
 **Q3 / H23 — QuEra Aquila:** exact target pattern in 0.581 (ring-8) and 0.573 (line-7) of hardware shots versus 0.95 and
-0.90 on the ideal simulator; per-atom fidelity ≈ 0.934 / 0.924; total hardware cost $2.60. Pattern retention decays with
-hold time, τ ≈ 42 µs (6.2σ) — a second loss channel beyond per-atom preparation/detection noise.
+0.90 on the ideal simulator; per-atom fidelity ≈ 0.934 / 0.924; hardware cost $2.60. Pattern retention decays with
+hold time, τ ≈ 42 µs (6.2σ) — a second loss channel beyond per-atom preparation/detection noise; hardware cost $11.20.
+Total Aquila spend for Q3 + H23: $13.80.
 
 ## Layout
 
@@ -55,7 +56,7 @@ account with Braket access and cost real money; everything else runs locally for
 
 ## Status
 
-Research code, published as measured. Planned next steps (not done yet): retention curves and new geometries on Aquila,
+Research code, published as measured. Planned next steps (not done yet): more retention curves and new geometries on Aquila,
 and a cleaned-up release of the QUBO generator, solver bridges and evaluation formula.
 
 ## License
